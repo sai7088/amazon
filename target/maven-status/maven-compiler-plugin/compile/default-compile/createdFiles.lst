@@ -1,0 +1,6 @@
+amazon\ui\SampleWebUiApplication.class
+amazon\ui\Message.class
+amazon\ui\SampleWebUiApplication$1.class
+amazon\ui\MessageRepository.class
+amazon\ui\mvc\MessageController.class
+amazon\ui\InMemoryMessageRespository.class
